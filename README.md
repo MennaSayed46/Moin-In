@@ -47,7 +47,7 @@ The app is still in progress — current work includes core functionality like a
 ---
 
 ## 📬 Contact
-#For any questions or suggestions:  
+For any questions or suggestions:  
 **Email:** mennaabdelateef910@gmail.com  
 **GitHub:** [MennaSayed46](https://github.com/MennaSayed46)
 
