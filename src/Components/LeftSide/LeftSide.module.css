@@ -1,0 +1,16 @@
+.LeftSide {}
+
+
+.userImg:hover .displayName {
+    border-bottom: 1px solid #b85b4e;
+    transition-duration: 167ms;
+}
+
+
+
+.desc div:hover {
+    background-color: rgb(227, 226, 226);
+    transition-duration: 167ms;
+    font-weight: 500;
+
+}
